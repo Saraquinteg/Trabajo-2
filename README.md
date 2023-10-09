@@ -1,1 +1,1 @@
-# Trabajo-2
+# Reconocimiento Óptico de Caracteres
